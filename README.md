@@ -8,7 +8,7 @@ What You Need
 Database: Grab the data.zip (that's #10)—your IDE outputs land here. You'll need MySQL 8.0.30+ or equivalent. No MySQL-specific dialect used, so swap engines if needed.
 Terminal junkies: JARs and shell scripts included if you want to skip the IDE and run everything from the command line.
 
-Documentation
+Documentation:
 Check OCS.pdf for the full breakdown of what this thing actually does.
 
 Hit me up if you run into any issues.
